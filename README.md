@@ -16,7 +16,6 @@
 
 ## PROGRAM: 
 
-```c#
 #include <stdio.h>
 #include <string.h>
 
@@ -31,7 +30,7 @@ for (int i = 0; i < input_len; i++) {
 }
 
 int main() {
-char url[] = "https://github.com/22008686";
+char url[] = "pravin kumar G";
 char key[] = "secretkey"; 
 
 printf("Original URL: %s\n", url);
@@ -44,10 +43,8 @@ printf("Decrypted URL: %s\n", url);
 
 return 0;
 }
-```
 ## OUTPUT:
-
-![Screenshot 2024-10-10 085314](https://github.com/user-attachments/assets/122d7168-de63-4ab4-953e-15a366d5bb64)
+![Screenshot 2024-10-10 092133](https://github.com/user-attachments/assets/04d2f818-048b-4b9d-908e-e710341ac96e)
 
 
 ## RESULT: 
