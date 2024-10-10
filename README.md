@@ -15,7 +15,7 @@
   4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
 ## PROGRAM: 
-
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -43,6 +43,7 @@ printf("Decrypted URL: %s\n", url);
 
 return 0;
 }
+```
 ## OUTPUT:
 ![Screenshot 2024-10-10 092133](https://github.com/user-attachments/assets/04d2f818-048b-4b9d-908e-e710341ac96e)
 
